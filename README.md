@@ -1,2 +1,3 @@
 # SearchStrToMysql
+在mysql的所有表所有字段中查询一个字符串
 根据字符串再mysql中的所有表和所有字段中检索，并输出到文件
